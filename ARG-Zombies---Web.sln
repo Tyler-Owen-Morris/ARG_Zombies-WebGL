@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG-Zombies---Web.CSharp", "ARG-Zombies---Web.CSharp.csproj", "{793A4F78-332A-2A68-0C7A-D9489824EDBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG-Zombies---Web.CSharp.Editor", "ARG-Zombies---Web.CSharp.Editor.csproj", "{175353F9-E8A3-CFB0-76AA-AED5FCA83CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793A4F78-332A-2A68-0C7A-D9489824EDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793A4F78-332A-2A68-0C7A-D9489824EDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793A4F78-332A-2A68-0C7A-D9489824EDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793A4F78-332A-2A68-0C7A-D9489824EDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175353F9-E8A3-CFB0-76AA-AED5FCA83CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175353F9-E8A3-CFB0-76AA-AED5FCA83CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175353F9-E8A3-CFB0-76AA-AED5FCA83CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175353F9-E8A3-CFB0-76AA-AED5FCA83CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
